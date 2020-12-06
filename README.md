@@ -1,1 +1,1 @@
-# JScheatsheetTRAVERSY
+# Traversy Media JS Cheatsheet
